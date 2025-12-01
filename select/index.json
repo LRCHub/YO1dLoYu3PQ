@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Fight Til I'm Good Enough",
+  "base_artist": "The Living Tombstone",
+  "createdAt": "2025-12-01T06:13:55.552947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fight Til I'm Good Enough",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/01_Fight_Til_I'm_Good_Enough_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fight Til I'm Good Enough",
+      "artist": "The Living Tombstone, Elsie Lovelock, Michael Kovach & Allanah Fitzgerald",
+      "has_synced": false,
+      "path": "select/02_Fight_Til_I'm_Good_Enough_The_Living_Tombstone,_Elsie_Lovelock,_Michael_Kovach_&_Allanah_Fitzgerald.txt"
+    }
+  ]
+}
