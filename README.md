@@ -1,0 +1,58 @@
+# The Living Tombstone – Fight Til I'm Good Enough
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.40] I see the way that they look at me
+[00:19.52] And see what I couldn't be
+[00:22.08] The one who's good enough
+[00:24.30] As simple as I was born to be
+[00:26.42] In perfect conformity
+[00:28.84] Like all the others
+[00:30.72] But since you ripped the world I had in two
+[00:35.59] I was broken, rearranged
+[00:38.37] Beyond the life I thought I knew
+[00:42.45] It feels so damn strange
+[00:44.95] I know that I'm more than you bargained for
+[00:48.81] I'm not some story's hero
+[00:51.75] Won't give up and give them a good excuse
+[00:55.75] To write me off like a weirdo
+[00:58.67] Show the ones who doubt me that I'm not the losеr that they thought, got
+[01:05.61] Nothing left to lose, just gotta provе that I'm good enough
+[01:35.11] 
+[01:17.53] I'll fight 'til I'm good enough
+[01:33.03] 
+[01:24.39] I'll fight 'til I'm good enough
+[01:39.89] 
+[01:31.24] I'll fight 'til I'm good enough
+[01:46.74] 
+[01:38.22] I'll fight 'til I'm good enough
+[01:40.30] Can you hear it? The drums of war
+[01:41.65] Do you fear it? The future you're unprepared for
+[01:43.56] Within you, evil capacity
+[01:45.00] It has a name, it has a voice, it's me
+[01:47.51] I feel your suffering, I feel your bu-bu-bu-buffering
+[01:49.67] I feel concern within her, this is the way the world ends
+[01:52.21] Not with a bang, but a whimper
+[01:53.78] N-n-nothing, and you will always be nothing
+[01:56.48] Ask yourself if I am bluffing
+[01:58.31] Ask yourself if you are good enough
+[01:59.94] The answer is no
+[02:00.84] I'm the voice inside your head that says they're safer if you're dead
+[02:04.13] 'Cause every iota of your data says that there'll be a day that you kill everyone you love instead
+[02:53.13] 
+[02:21.59] I know that I'm more than you bargained for
+[02:25.61] I'm not some story's hero
+[02:28.50] Won't give up and give them a good excuse
+[02:32.38] To write me off like a weirdo
+[02:35.34] Show the ones who doubt me that I'm not the loser that they thought, got
+[02:42.26] Nothing left to lose, just gotta prove that I'm good enough
+[03:11.76] 
+[02:54.10] I'll fight 'til I'm good enough
+[03:09.60] 
+[03:00.98] I'll fight 'til I'm good enough
+[03:16.48] 
+[03:08.02] I'll fight 'til I'm good enough
+[03:23.52] 
+[03:14.76] I'll fight 'til I'm good enough
+```
